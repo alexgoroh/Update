@@ -1,0 +1,17 @@
+{
+  "name": "DoorGuard",
+  "about": "Check opened doors",
+  "version": "1.1",
+  "notes": "New version 1.1 from hellburn",
+  "builds": [
+    {
+      "chipFamily": "ESP8266",
+      "parts": [
+        {
+          "path": "https://raw.githubusercontent.com/alexgoroh/Update/main/firmware.bin",
+          "offset": 0
+        }
+      ]
+    }
+  ]
+}
