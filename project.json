@@ -1,8 +1,8 @@
 {
   "name": "DoorGuard",
   "about": "Check opened doors",
-  "version": "1.2",
-  "notes": "New version 1.2 from git",
+  "version": "1.1",
+  "notes": "New version 1.1 from git",
   "builds": [
     {
       "chipFamily": "ESP8266",
