@@ -1,7 +1,7 @@
 {
   "name": "DoorGuard",
   "about": "Check opened doors",
-  "version": "1.0",
+  "version": "1.1",
   "notes": "New version 1.1 from git! led_blink",
   "builds": [
     {
