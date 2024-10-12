@@ -8,7 +8,7 @@
       "chipFamily": "ESP8266",
       "parts": [
         {
-          "path": "https://raw.githubusercontent.com/alexgoroh/Update/main/firmware.bin",
+          "path": "https://raw.githubusercontent.com/alexgoroh/Update/main/led_blink.bin",
           "offset": 0
         }
       ]
