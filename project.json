@@ -2,13 +2,13 @@
   "name": "DoorGuard",
   "about": "Check opened doors",
   "version": "1.0",
-  "notes": "New version 1.0 from git! led_blink",
+  "notes": "New version 1.0 from git!",
   "builds": [
     {
       "chipFamily": "ESP8266",
       "parts": [
         {
-          "path": "https://raw.githubusercontent.com/alexgoroh/Update/main/led_blink.bin",
+          "path": "https://raw.githubusercontent.com/alexgoroh/Update/main/firmware_1_0.bin",
           "offset": 0
         }
       ]
